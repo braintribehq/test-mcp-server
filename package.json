@@ -15,8 +15,8 @@
     "update": "npm-check-updates --upgrade && npm install"
   },
   "engines": {
-    "node": ">=22.15.1 <23.0.0",
-    "npm": ">=11.4.0 <12.0.0"
+    "node": ">=22.15.1 <25.0.0",
+    "npm": ">=10.9.0 <12.0.0"
   },
   "type": "module",
   "devDependencies": {
