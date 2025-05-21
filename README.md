@@ -1,2 +1,2 @@
-# test-mcp-server
-A test MCP server
+# Test MCP Server
+This is a (test) MCP server project.
